@@ -2,7 +2,7 @@
 
 int	main(void)
 {
-	write(1, "hello	everyone!\n", 18);
+	write(1, "hello everyone!", 18);
 	
 
 	return 0;
