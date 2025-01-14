@@ -3,7 +3,7 @@
 int	main(void)
 {
 
-	write(1, "hello every!", 18);
+	write(1, "hello everyone!", 15);
 	
 
 	return 0;
